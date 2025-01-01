@@ -5,7 +5,7 @@ I attended the python workshop in Prime College for about 6 weeks along with few
 
 ## File Structure
 Python_Workshop
-├── Basic Programming
-├── Numpy
-├── Pandas
-├── Matplotlib
+  └── Basic Programming
+  └── Numpy
+  └── Pandas
+  └── Matplotlib
